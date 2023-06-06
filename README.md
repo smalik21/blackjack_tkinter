@@ -9,7 +9,7 @@ To run the game, you need to have Python 3.x installed on your system along with
 - random
 ## How to Run
 To run the game, simply open a terminal or command prompt and navigate to the directory where the game files are located. Then, run the following command:
-`python blackjack.py`
+`python blackjack_pro.py`
 
 Alternatively, navigate to the `dist` folder and run the `blackjack_pro.exe` file.
 
