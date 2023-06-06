@@ -10,7 +10,9 @@ To run the game, you need to have Python 3.x installed on your system along with
 ## How to Run
 To run the game, simply open a terminal or command prompt and navigate to the directory where the game files are located. Then, run the following command:
 `python blackjack.py`
+
 Alternatively, navigate to the dist folder and run the `blackjack_pro.exe` file.
+
 This will launch the game window and you can start playing.
 ## Cards Folder
 The `blackjack_cards` folder contains the images of the cards used in the game. These images are in PNG format and are used to display the cards in the game window. The folder contains a total of 52 card images, one for each card in a standard deck of playing cards.
