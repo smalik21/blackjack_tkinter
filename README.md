@@ -3,6 +3,13 @@ This is a simple Blackjack game created using Python and Tkinter. In this game, 
 
 The game does not have the functionality of automatically starting a new game once the previous one ends, for that the user has to click on the `new game` button.
 
+## Screenshots
+![image](https://github.com/smalik21/blackjack_tkinter/assets/116386017/1d2d83a7-23b5-436b-9cfb-7fde144b09ed)
+
+![image](https://github.com/smalik21/blackjack_tkinter/assets/116386017/dac957e6-251b-4cdd-9ebb-9f108548e03c)
+
+![image](https://github.com/smalik21/blackjack_tkinter/assets/116386017/61afb1f2-8d70-498b-aeb6-b15cf74e95d7)
+
 ## Requirements
 To run the game, you need to have Python 3.x installed on your system along with the following Python packages:
 - tkinter
