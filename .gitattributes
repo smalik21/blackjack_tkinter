@@ -1,0 +1,6 @@
+# Exclude TeX files from language statistics
+*.tex linguist-documentation=true
+
+# If you have other docs or generated files to exclude, uncomment or add lines like these:
+# docs/** linguist-documentation=true
+# *.pdf linguist-generated=true
